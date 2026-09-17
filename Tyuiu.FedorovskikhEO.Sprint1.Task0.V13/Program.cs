@@ -23,7 +23,7 @@ namespace Tyuiu.FedorovskikhEO.Sprint1.Task0.V13
             Console.WriteLine("***************************************************************************");
             Console.WriteLine(" 24/(6*2)-24/6/4                                                          *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
+            Console.WriteLine("* РЕЗУЛЬТАT:                                                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine(ds.Calculate());
 
