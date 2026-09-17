@@ -9,6 +9,7 @@ namespace Tyuiu.FedorovskikhEO.Sprint1.Task0.V13.Test
             DataService ds = new DataService();
             var res = ds.Calculate();
             Assert.Equal(1, res);
+
         }
     }
 }
