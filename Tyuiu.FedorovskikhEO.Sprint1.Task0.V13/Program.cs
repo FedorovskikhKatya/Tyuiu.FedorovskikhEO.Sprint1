@@ -26,8 +26,8 @@ namespace Tyuiu.FedorovskikhEO.Sprint1.Task0.V13
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine(ds.Calculate());
-            Console.ReadLine();
 
+            Console.ReadLine();
         }
     }
 }
