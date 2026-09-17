@@ -9,7 +9,7 @@ namespace Tyuiu.FedorovskikhEO.Sprint1.Task0.V13
             Console.Title = "Спринт #1 | Выполнила: Федоровских Е. O. | ИСТНБ-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в  C#                                        *");
+            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #13                                                             *");
             Console.WriteLine("* Выполнила: Федоровских Екатерина Олеговна | ИСТНБ-26-1                  *");
@@ -27,6 +27,7 @@ namespace Tyuiu.FedorovskikhEO.Sprint1.Task0.V13
             Console.WriteLine("***************************************************************************");
             Console.WriteLine(ds.Calculate());
             Console.ReadLine();
+
 
         }
     }
