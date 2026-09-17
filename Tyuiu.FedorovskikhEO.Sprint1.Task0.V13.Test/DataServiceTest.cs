@@ -10,6 +10,7 @@ namespace Tyuiu.FedorovskikhEO.Sprint1.Task0.V13.Test
             var res = ds.Calculate();
             Assert.Equal(1, res);
 
+
         }
     }
 }
