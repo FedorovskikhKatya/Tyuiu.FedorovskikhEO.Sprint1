@@ -8,6 +8,7 @@ namespace Tyuiu.FedorovskikhEO.Sprint1.Task0.V13.Lib
         {
             return  24 / (6  * 2) - 24 / 6 / 4; 
         }
+
     }
 }
 
