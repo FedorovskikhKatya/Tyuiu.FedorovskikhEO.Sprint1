@@ -11,8 +11,7 @@ namespace Tyuiu.FedorovskikhEO.Sprint1.Task1.V2.Test
             double x = 5.0;
             double y = 10.0;
             var res = ds.Calculate(x, y);
-            Assert.AreEqual(5, res);
-            
+            Assert.AreEqual(5, res); 
         }
     }
 }
