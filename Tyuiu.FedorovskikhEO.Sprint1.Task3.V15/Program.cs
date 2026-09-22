@@ -22,13 +22,13 @@ namespace Tyuiu.FedorovskikhEO.Sprint1.Task3.V15
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("Введите  скорость 1 автомобиля:                                            ");
-            double v1 = Convert.ToInt32(Console.ReadLine());
+            double v1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Введите  скорость 2 автомобиля:                                            ");
-            double v2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Введите  расстояние:           :                                            ");
-            double S = Convert.ToInt32(Console.ReadLine());
+            double v2 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Введите  расстояние           :                                            ");
+            double S = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Введите  время в часах:                                                    ");
-            double T = Convert.ToInt32(Console.ReadLine());
+            double T = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
